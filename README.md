@@ -28,10 +28,10 @@ I scripted a python script, which automate the process to convert image to its Y
 ![wp5522117-stranger-things-4k-wallpapers](https://user-images.githubusercontent.com/98146902/177001523-bc6a6380-10d4-4b05-b1c9-a5b21b6cefdb.jpg)
 <p align="center">:point_down:</p>
 
-![wp5522117-stranger-things-4k-wallpapers](https://user-images.githubusercontent.com/98146902/177001533-6dcd11f1-a9e5-4c81-bf75-1f1f878a8e42.jpg)
+<p align="center><img src="https://user-images.githubusercontent.com/98146902/177001533-6dcd11f1-a9e5-4c81-bf75-1f1f878a8e42.jpg></p>
 
 # :name_badge:License 
-This project is licensed under [MIT License](https://github.com/beingvikasbhadu/Automatically-Apply-Black-and-White-Effect-On-Images/blob/master/LICENSE) 2022 vikas bhadu
+This project is licensed under [MIT License](https://github.com/beingvikasbhadu/Automate-Thumbnail-Creation/blob/master/LICENSE) 2022 vikas bhadu
 
 
 # :arrow_upper_right:Future Improvements
